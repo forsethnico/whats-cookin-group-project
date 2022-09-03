@@ -17,7 +17,8 @@
 The user can also view the pantry ingredients and amounts they currently have. They can also specify a recipe to cook by clicking "cook me!" which will compare if the user has enough ingredients to cook it. If the user has enough ingredients, it will return the updated pantry with relevant ingredient amounts subtracted for that recipe. If the user does not have all the ingredients for the recipe, it will return which ingredients and amounts are still needed. Once the user goes out shopping, they can also manually add ingredients and their amounts to their pantry for future cooking fun!
 
 ## Links
-- [Project spec](https://frontend.turing.edu/projects/whats-cookin-part-one.html)
+- [Project spec part 1](https://frontend.turing.edu/projects/whats-cookin-part-one.html)
+- [Project spec part 2](https://frontend.turing.edu/projects/whats-cookin-part-two.html)
 - [Project Board](https://github.com/users/tfettig22/projects/1)
 - [DTR](https://gist.github.com/GOECHA/d7bcb7fc6ac06c54144e9aa1259c1cfb)
 - [WireFrame- Home Page](https://user-images.githubusercontent.com/102189342/179422204-fdd7ef75-4062-4c24-b966-a88e76d447c7.png)
